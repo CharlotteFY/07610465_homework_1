@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">homework_1</string>
+    <string name="election_commission_of_thailand">ELECTION COMMISSION OF THAILAND</string>
+    <string name="election_commission_of_thailand_th">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="count_down_to_election_day">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minutes">นาที</string>
+    <string name="seconds">วินาที</string>
+    <string name="next">ถัดไป</string>
+</resources>
